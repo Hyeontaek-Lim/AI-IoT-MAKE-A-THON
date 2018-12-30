@@ -1,0 +1,5 @@
+user1 pwd KTW E2:A6:00:B7:A7:D4 5
+
+user2 1234 CCS1 A0:40:A0:A7:4A:13 3
+
+ktuser 1234 ktdevsign FA:E6:1A:EA:84:D1
