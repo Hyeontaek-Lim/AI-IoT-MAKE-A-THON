@@ -8,7 +8,7 @@
 # Firebase Connect Part
 #-----------------------------------
 from firebase import firebase
-firebase = firebase.FirebaseApplication("https://devsign-2018.firebaseio.com/", None)
+firebase = firebase.FirebaseApplication("My firebase IO", None)
 
 # import std lib
 import os
